@@ -12,6 +12,9 @@ export default function Home() {
         <button className={styles.btn}>
           <Link href="/help">Help</Link>
         </button>
+        <br />
+        <br />
+        <Link href="/views/fahad">Fahad point of view about the Next.js</Link>
       </div>
       <div className={styles.container}>
         <h1>Hello dear 💘💘💘💘</h1>
