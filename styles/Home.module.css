@@ -119,3 +119,14 @@
     flex-direction: column;
   }
 }
+
+.btn {
+  background-color: #0070f3;
+  color: white;
+  padding: 20px;
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  align-content: center;
+  margin-left: 50px;
+}
